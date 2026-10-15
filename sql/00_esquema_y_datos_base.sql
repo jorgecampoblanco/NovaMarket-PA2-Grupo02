@@ -1,14 +1,13 @@
 -- PA2 - NovaMarket | 00: Esquema y datos base
 -- Autor: Andy Lescano (modelo fisico + datos base)
--- Ejecutar completo (F5) sobre una instancia SQL Server. Recrea las tablas desde cero.
+-- Ejecutar completo (F5) sobre una instancia SQL Server.
+-- IMPORTANTE: este script ELIMINA y RECREA las tablas. Ejecutarlo UNA SOLA VEZ, al inicio.
+-- Si se vuelve a ejecutar despues de S04-S07 se pierden los datos agregados y los cambios DML.
+-- Orden: 00 -> 01_s04 -> 02_s05 -> 03_s06 -> 04_s07_datos_prueba -> 05_s07_reporte_clientes
 
 -- Crear la base si no existe
 IF DB_ID('PA2_NovaMarket') IS NULL
     CREATE DATABASE PA2_NovaMarket;
-GO
-
--- Propietario sa: evita error del diagrama al restaurar en otra PC
-ALTER AUTHORIZATION ON DATABASE::PA2_NovaMarket TO sa;
 GO
 
 USE PA2_NovaMarket;
