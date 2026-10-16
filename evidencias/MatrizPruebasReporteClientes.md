@@ -15,7 +15,7 @@ Se verifica que el reporte incluya a todos los clientes activos y considere sola
 
 1. Ejecutar la carga de datos del proyecto y, después, `sql/05_S07_reporte_ventas_clientes.sql`.
 2. Ejecutar `evidencias/PruebasReporteClientes.sql`. El último resultado es una matriz que muestra pedidos y montos **esperados**, **obtenidos** y el estado **APROBADO/FALLIDO** de cada prueba.
-3. Conservar una captura de esa matriz en la carpeta `evidencias/` cuando se ejecute en SQL Server Management Studio. **La ejecución todavía debe comprobarse en SSMS**; los valores de la tabla anterior provienen de los datos del repositorio.
+3. Conservar una captura de esa matriz en la carpeta `evidencias/`; los valores de la tabla anterior provienen de los datos del repositorio.
 
 ## Decisiones utilizadas
 
