@@ -1,13 +1,13 @@
 -- NovaMarket: pruebas del reporte de ventas por cliente
 -- Responsable: Jorge
--- Ejecutar despues de sql/05_reporte_ventas_clientes.sql.
+-- Ejecutar despues de 05_S07_reporte_ventas_clientes.sql.
 -- Solo realiza consultas; no modifica registros.
 
 USE PA2_NovaMarket;
 GO
 
 IF OBJECT_ID('dbo.vw_ReporteClientes2026', 'V') IS NULL
-    THROW 51000, 'Primero ejecute sql/05_reporte_ventas_clientes.sql.', 1;
+    THROW 51000, 'Primero ejecute sql/05_S07_reporte_ventas_clientes.sql.', 1;
 GO
 
 -- Los valores esperados se obtienen de las tablas originales.
