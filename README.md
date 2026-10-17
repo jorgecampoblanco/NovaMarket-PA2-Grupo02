@@ -217,10 +217,3 @@ En el reporte final fue especialmente importante contar cada pedido una sola vez
 
 **Enlace de YouTube:**
 
-| Integrante | Tema presentado | Minuto de inicio |
-|---|---|---|
-| Andy Alexandre Lescano Espino | Modelo de datos, diagrama y ampliación de registros. | — |
-| Lucero Helen Corrales Granda | Subconsultas, segmentación de clientes y comparación de precios. | — |
-| Farid Alessandro Mori Barrientos | Registro histórico, ofertas y eliminación de borradores. | — |
-| Fernando Álvaro Quispe Trigos | Vistas y validación de totales. | — |
-| Jorge Raúl Campoblanco Noriega | Reporte de ventas por cliente y pruebas de resultados. | — |
