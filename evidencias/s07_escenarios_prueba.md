@@ -69,7 +69,7 @@ S05-C elimina los borradores sin detalle 10 (2025), 32 y 37 (2026); después de 
 
 Los clientes 5, 6, 9, 13 y 14 deben aparecer con 0 y 0.00. Si no aparecen, el filtro de estado o de fecha se puso en el `WHERE` en lugar del `ON` del `LEFT JOIN`, y eso elimina a los clientes sin ventas.
 
-Quien ejecute `05_s07_reporte_clientes.sql` completa la columna "Obtenido" de la matriz con estos valores como referencia.
+Quien ejecute `05_S07_reporte_ventas_clientes.sql` completa la columna "Obtenido" de la matriz con estos valores como referencia.
 
 ## Diseño de los datos nuevos
 
