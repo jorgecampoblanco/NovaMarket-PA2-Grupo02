@@ -1,7 +1,6 @@
-# NovaMarket — Segunda Práctica Calificada (PA2)
+# NovaMarket — Segundo Proceso de Evaluación (PA2)
 
 **Programación Avanzada de Base de Datos | ISIL | Grupo 02**  
-**Tecnología:** Microsoft SQL Server y SQL Server Management Studio (SSMS)
 
 ## 1. Presentación del proyecto
 
@@ -203,18 +202,3 @@ En el reporte final fue especialmente importante contar cada pedido una sola vez
 
 **Enlace de YouTube:** **[PENDIENTE: PEGAR EL ENLACE DEL VIDEO]**
 
-> Antes de la entrega final, reemplazar el texto anterior por el enlace real del video en YouTube. Verificar que se pueda abrir sin permisos especiales (por ejemplo, en modalidad **No listado**). Completar los tiempos reales de intervención después de publicar la grabación.
-
-| Orden | Integrante | Demostración en pantalla | Tiempo |
-|---|---|---|---|
-| 1 | Andy Lescano | Diagrama, relaciones del modelo y ampliación de los datos. | Pendiente |
-| 2 | Lucero Helen Corrales Granda | `EXISTS`/`NOT EXISTS`, promedio por categoría y casos incluidos/excluidos. | Pendiente |
-| 3 | Farid Mori | Carga histórica, descuentos y borradores, con validaciones antes y después. | Pendiente |
-| 4 | Fernando Alvaro Quispe Trigos | Las dos vistas y comparación de los totales mensuales. | Pendiente |
-| 5 | Jorge Raúl Campoblanco Noriega | Reporte de clientes y ejecución de la matriz de cuatro pruebas. | Pendiente |
-
-Cada integrante debe identificarse, mantener la **cámara encendida durante su participación**, mostrar su parte del código y su resultado, explicar al menos una decisión técnica y cuidar la claridad del audio. Como referencia, el examen propone entre **2 y 4 minutos por participante**.
-
----
-
-**Entrega en el aula virtual:** enviar únicamente la **URL de este repositorio de GitHub**. El enlace al video y los tiempos de exposición deben estar incorporados en el README antes de la entrega.
